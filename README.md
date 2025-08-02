@@ -40,6 +40,10 @@ Have questions or found a bug?
 - Open an issue: [https://github.com/AnderGoig/octostack-ios/issues](https://github.com/AnderGoig/octostack-ios/issues)  
 - Or email me directly: [ander.goig+octostack@icloud.com](mailto:ander.goig+octostack@icloud.com)
 
+## 🔒 Privacy Policy
+
+You can find the Privacy Policy [here](PRIVACY_POLICY.md).
+
 ## 🚀 Download
 
 > _Coming soon to the App Store!_
