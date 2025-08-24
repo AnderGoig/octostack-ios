@@ -46,4 +46,4 @@ You can find the Privacy Policy [here](PRIVACY_POLICY.md).
 
 ## 🚀 Download
 
-👉 [Download on the App Store](https://apps.apple.com/us/app/octostack/id6443491836) 👈
+👉 [Download on the App Store](https://apps.apple.com/app/id6443491836) 👈
