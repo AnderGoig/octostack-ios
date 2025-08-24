@@ -6,13 +6,13 @@ Built with ❤️ by [Ander Goig](https://github.com/AnderGoig)
 
 ## ✨ Features
 
-- 🔍 Browse and search questions across the entire Stack Exchange network  
-- 🌐 Supports all sites: Stack Overflow, Ask Ubuntu, Mathematics, and many more  
-- 💬 View questions, answers, comments, and user profiles  
-- 🏷️ Filter by tags or site  
-- 🚩 Flag content directly via the Stack Exchange API  
-- 📱 Native interface with dark mode support  
-- 🧪 No account required – just explore!
+🔍 &nbsp;Browse and search questions across the entire Stack Exchange network\
+🌐 &nbsp;Supports all sites: Stack Overflow, Ask Ubuntu, Mathematics, and many more\
+💬 &nbsp;View questions, answers, comments, and user profiles\
+🏷️ &nbsp;Filter by tags or site\
+🚩 &nbsp;Flag content directly via the Stack Exchange API\
+📱 &nbsp;Native interface with dark mode support\
+🧪 &nbsp;No account required – just explore!
 
 ## 🛠️ Tech Stack
 
