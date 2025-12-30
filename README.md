@@ -1,6 +1,9 @@
 # Octostack 🐙
 
-Octostack is a fast, native iOS client for the [Stack Exchange network of sites](https://stackexchange.com), designed for power users and curious minds who want to explore Stack Overflow, Super User, Ask Different, and more — all from a beautifully crafted app.
+| <img width="200" src="https://github.com/user-attachments/assets/b6148fba-feb5-413b-9326-f7a7d5b9bbc1" /> | <img width="200" src="https://github.com/user-attachments/assets/ee3c3902-16d0-4814-b5df-271ea00c6e02" /> | <img width="200" src="https://github.com/user-attachments/assets/a2ae78fa-ac12-4e61-af73-f55c643653a3" /> | <img width="200" src="https://github.com/user-attachments/assets/abd84f27-ffa8-40e9-a0b6-5e9d2622221e" /> | <img width="200" src="https://github.com/user-attachments/assets/9673e1dd-f3d3-4b6c-8e5a-edfaff19747a" /> |
+|---|---|---|---|---|
+
+**Octostack** is a **fast**, **native** iOS client for the [Stack Exchange network of sites](https://stackexchange.com), designed for power users and curious minds who want to explore Stack Overflow, Super User, Ask Different, and more — all from a beautifully crafted app.
 
 Built with ❤️ by [Ander Goig](https://github.com/AnderGoig)
 
