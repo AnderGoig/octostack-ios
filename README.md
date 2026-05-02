@@ -50,4 +50,5 @@ You can find the Privacy Policy [here](PRIVACY_POLICY.md).
 
 | 👉 [Download on the App Store](https://apps.apple.com/app/id6443491836) 👈 |
 |---|
-| <img width="256" height="256" alt="QR Code Download Link" src="https://github.com/user-attachments/assets/87cc44b5-190b-496b-bd92-d24504c27515" /> |
+| <img width="256" height="256" alt="QR Code Download Link" src="https://github.com/user-attachments/assets/d66485b5-2ebe-45f5-a54a-c6b47f2c120b" /> |
+
